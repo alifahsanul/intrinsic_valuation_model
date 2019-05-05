@@ -23,7 +23,6 @@ Input: Riskfree rate, macro factors, betas relative to macro factors, macroecono
 Proxy E(R) = a + ΣβjYj
 Input: Regression coefficient
 
-
 """
 
 

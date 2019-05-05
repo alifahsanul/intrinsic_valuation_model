@@ -86,7 +86,7 @@ y5_riskfree_rate = indo_5y_bond_rates - default_probability
 
 with open('./data/default_probability.pkl', 'wb') as f:
     pickle.dump(default_probability, f)
-indonesia_bond_table.to_csv('./data/indonesia_bond_table.csv')
+indonesia_bond_table.to_csv('./data/indonesia_bond_table.csv', index=False)
 
 
 

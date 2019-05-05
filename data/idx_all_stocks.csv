@@ -1,0 +1,655 @@
+Ticker,Company,Price,Change,EPS,PE Ratio (ttm),Market Cap. (Million IDR)
+GOLL,PT. Golden Plantation Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SCBD,PT. Danayasa Arthatama Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+CLAY,PT. Citra Putra Realty Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+PAFI,PT. Panasia Filament Inti Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+KBRI,PT. Kertas Basuki Rachmat Indonesia Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SAIP,PT. Surabaya Agung Industri Pulp & Kertas Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SOBI,PT. Sorini Agro Asia Corporindo Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+PWSI,PT. Panca Wiratama Sakti Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SIAP,PT. Sekawan Intipratama Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+MITI,PT. Mitra Investindo Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+INVS,PT. Inovisi Infracom Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+ZBRA,PT. Zebra Nusantara Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+TRUB,PT. Truba Alam Manunggal Engineering Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+BAEK,PT. Bank Ekonomi Raharja Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+BBNP,PT. Bank Nusantara Parahyangan Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+JPRS,PT. Jaya Pari Steel Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+BCIC,PT. Bank Jtrust Indonesia Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+LCGP,PT. Eureka Prima Jakarta Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+CTRS,PT. Ciputra Surya Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+CPDW,PT. Indo Setu Bara Resources Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+CKRA,PT. Cakra Mineral Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+ATPK,PT. Bara Jaya Internasional Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+BORN,PT. Borneo Lumbung Energi & Metal Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+BRAU,PT. Berau Coal Energy Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+GEMS,PT. Golden Energy Mines Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+LAMI,PT. Lamicitra Nusantara Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+UNTX,PT. Unitex Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+AISA,PT. Tiga Pilar Sejahtera Food Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+DAVO,PT. Davomas Abadi Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SCPI,PT. Merck Sharp Dohme Pharma Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SQBB,PT. Taisho Pharmaceutical Indonesia Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SQBI,PT. Taisho Pharmaceutical Indonesia (PS) Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+CTRP,PT. Ciputra Property Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+SIMM,PT. Surya Intrindo Makmur Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+BSWD,PT. Bank of India Indonesia Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+APOL,PT. Arpeni Pratama Ocean Line Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+TMPI,PT. Sigmagold Inti Perkasa Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+PLAS,PT. Polaris Investama Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+ASIA,PT. Asia Natural Resources Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+KARK,PT. Dayaindo Resources International Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+TKGA,PT. Permata Prima Sakti Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+GREN,PT. Bumiputera Investasi Indonesia Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+AIMS,PT. Akbar Indo Makmur Stimec Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+MTFN,PT. Capitalinc Investment Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+IDKM,PT. Indosiar Karya Media Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+GMCW,PT. Grahamas Citrawisata Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+TAXI,PT. Express Transindo Utama Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+CPGT,PT. Citra Maharlika Nusantara Corpora Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+CNTB,PT. Century Textile Industry (Saham Seri B) Tbk,0.0,"-250 (0,00%)",-585.0,-0.0,0.0
+SOSS,PT. Shield On Service Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+DAJK,PT. Dwi Aneka Jaya Kemasindo Tbk,0.0,"0 (0,00%)",0.0,0.0,0.0
+ITTG,PT. Leo Investments Tbk,0.0,"-82 (0,00%)",-2.0,-53.0,0.0
+JKSW,PT. Jakarta Kyoei Steel  Works Tbk,60.0,"2 (3,45%)",-51.0,-1.0,9000.0
+UNIT,PT. Nusantara Inti Corpora Tbk,204.0,"-2 (-0,97%)",7.0,31.0,15300.0
+BIMA,PT. Primarindo Asia Infrastructure Tbk,50.0,"-1 (-1,96%)",-0.0,-194.0,30400.0
+INDX,PT. Tanah Laut Tbk,75.0,"0 (0,00%)",-27.0,-3.0,32775.0
+CNTX,PT. Century Textile Industry Tbk,484.0,"42 (9,50%)",-70.0,-7.0,33880.0
+SIMA,PT. Siwani Makmur Tbk,90.0,"2 (2,27%)",0.0,1911.0,39780.0
+KONI,PT. Perdana Bangun Pusaka Tbk,266.0,"52 (24,30%)",-63.0,-4.0,40432.0
+PANI,PT. Pratama Abadi Nusa Industri Tbk,107.0,"0 (0,00%)",3.0,41.0,43870.0
+WAPO,PT. Wahana Pronatural Tbk,85.0,"-2 (-2,30%)",3.0,26.0,44200.0
+KARW,PT. ICTSI Jasa Prima Tbk,76.0,"-5 (-6,17%)",23.0,3.0,44612.0
+LRNA,PT. Eka Sari Lorena Transport Tbk,129.0,"-2 (-1,53%)",-107.0,-1.0,45150.0
+FORU,PT. Fortune Indonesia Tbk,99.0,"0 (0,00%)",-28.0,-4.0,46035.0
+MTSM,PT. Metro Realty Tbk,200.0,"7 (3,63%)",-12.0,-16.0,46400.0
+LMAS,PT. Limas Indonesia Makmur Tbk,59.0,"-1 (-1,67%)",-2.0,-37.0,46433.0
+TRUK,PT. Guna Timur Raya Tbk,109.0,"-4 (-3,54%)",0.0,2561.0,47415.0
+MGNA,PT. Magna Investama Mandiri Tbk,50.0,"0 (0,00%)",-41.0,-1.0,50150.0
+JAYA,PT. Armada Berjaya Trans Tbk,137.0,"-1 (-0,72%)",4.0,31.0,51375.0
+PKPK,PT. Perdana Karya Perkasa Tbk,86.0,"-2 (-2,27%)",-6.0,-14.0,51600.0
+LMSH,PT. Lionmesh Prima Tbk,555.0,"0 (0,00%)",32.0,17.0,53280.0
+SDMU,PT. Sidomulyo Selaras Tbk,51.0,"-1 (-1,92%)",-26.0,-2.0,57885.0
+TRIL,PT. Triwira Insanlestari Tbk,50.0,"0 (0,00%)",-3.0,-18.0,60000.0
+BAPA,PT. Bekasi Asri Pemula Tbk,93.0,"-1 (-1,06%)",8.0,11.0,61473.0
+ETWA,PT. Eterindo Wahanatama Tbk,72.0,"0 (0,00%)",-170.0,-0.0,69696.0
+MRAT,PT. Mustika Ratu Tbk,169.0,"-1 (-0,59%)",2.0,69.0,72332.0
+TIRT,PT. Tirta Mahakam Resources Tbk,72.0,"2 (2,86%)",-74.0,-1.0,72792.0
+PYFA,PT. Pyridam Farma Tbk,171.0,"-9 (-5,00%)",11.0,16.0,91485.0
+FINN,PT. First Indo American Leasing Tbk,50.0,"0 (0,00%)",3.0,18.0,93000.0
+YELO,PT. Yelooo Integra Datanet Tbk,246.0,"-2 (-0,81%)",8.0,31.0,93480.0
+KICI,PT. Kedaung Indah Can Tbk,354.0,"14 (4,12%)",-3.0,-112.0,97704.0
+MPOW,PT. Megapower Makmur Tbk,120.0,"-4 (-3,23%)",-5.0,-23.0,97920.0
+MTWI,PT. Malacca Trust Wuwungan Insurance Tbk,65.0,"-2 (-2,99%)",2.0,35.0,99125.0
+DPNS,PT. Duta Pertiwi Nusantara Tbk,300.0,"-24 (-7,41%)",38.0,8.0,99300.0
+INCI,PT. Intanwijaya Internasional Tbk,515.0,"-10 (-1,90%)",110.0,5.0,100940.0
+ASBI,PT. Asuransi Bintang Tbk,292.0,"-8 (-2,67%)",110.0,3.0,101616.0
+INTD,PT. Inter Delta Tbk,174.0,"23 (15,23%)",9.0,20.0,102834.0
+HADE,PT. Himalaya Energi Perkasa Tbk,50.0,"0 (0,00%)",-1.0,-100.0,106000.0
+ICON,PT. Island Concepts Indonesia Tbk,100.0,"-5 (-4,76%)",28.0,4.0,108900.0
+KPAS,PT. Cottonindo Ariesta Tbk,142.0,"-2 (-1,39%)",13.0,11.0,109056.0
+HELI,PT. Jaya Trishindo Tbk,134.0,"-3 (-2,19%)",6.0,23.0,109746.0
+BCIP,PT. Bumi Citra Permai Tbk,80.0,"0 (0,00%)",44.0,2.0,114320.0
+FOOD,PT. Sentra Food Indonesia Tbk,181.0,"-2 (-1,09%)",2.0,105.0,117650.0
+PUDP,PT. Pudjiadi Prestige Tbk,358.0,"0 (0,00%)",-41.0,-9.0,117782.0
+PRAS,PT. Prima Alloy Steel Universal Tbk,169.0,"-2 (-1,17%)",22.0,8.0,118469.0
+RICY,PT. Ricky Putra Globalindo Tbk,188.0,"0 (0,00%)",4.0,44.0,120508.0
+BPTR,PT. Batavia Prosperindo Trans Tbk,78.0,"0 (0,00%)",10.0,8.0,120900.0
+APLI,PT. Asiaplast Industries Tbk,89.0,"5 (5,95%)",-12.0,-7.0,121218.0
+TNCA,PT. Trimuda Nuansa Citra Tbk,288.0,"-8 (-2,70%)",6.0,46.0,121248.0
+OASA,PT. Protech Mitra Perkasa Tbk,350.0,"42 (13,64%)",-2.0,-166.0,125300.0
+WEHA,PT. Weha Transportasi Indonesia Tbk,144.0,"0 (0,00%)",1.0,125.0,127584.0
+MBTO,PT. Martina Berto Tbk,121.0,"-8 (-6,20%)",-78.0,-2.0,129470.0
+SDPC,PT. Millennium Pharmacon International Tbk,104.0,"-2 (-1,89%)",15.0,7.0,132496.0
+CTTH,PT. Citatah  Tbk,108.0,"-3 (-2,70%)",5.0,21.0,132840.0
+CAKK,PT. Cahayaputra Asa Keramik Tbk,111.0,"-4 (-3,48%)",43.0,3.0,133533.0
+BMSR,PT. Bintang Mitra Semestaraya Tbk,116.0,"-19 (-14,07%)",4.0,26.0,134444.0
+SAFE,PT. Steady Safe Tbk,220.0,"18 (8,91%)",-25.0,-9.0,135300.0
+VINS,PT. Victoria Insurance Tbk,95.0,"-12 (-11,21%)",12.0,8.0,138035.0
+CANI,PT. Capitol Nusantara Indonesia Tbk,167.0,"0 (0,00%)",-35.0,-5.0,139111.0
+SATU,PT. Kota Satu Properti Tbk,112.0,"-1 (-0,88%)",-1.0,-199.0,140000.0
+CSIS,PT. Cahayasakti Investindo Sukses Tbk,108.0,"-2 (-1,82%)",-14.0,-7.0,141156.0
+LMPI,PT. Langgeng Makmur Industri Tbk,141.0,"-3 (-2,08%)",-43.0,-3.0,142128.0
+GOLD,PT. Visi Telekomunikasi Infrastruktur Tbk,454.0,"16 (3,65%)",-18.0,-25.0,142556.0
+PTIS,PT. Indo Straits Tbk,262.0,"0 (0,00%)",0.0,2183330.0,144100.0
+BIKA,PT. Binakarya Jaya Abadi Tbk,250.0,"6 (2,46%)",-29.0,-9.0,148000.0
+ASJT,PT. Asuransi Jasa Tania Tbk,252.0,"6 (2,44%)",23.0,11.0,151200.0
+TIRA,PT. Tira Austenite Tbk,260.0,"50 (23,81%)",2.0,169.0,152880.0
+LPIN,PT. Multi Prima Sejahtera Tbk,1450.0,"280 (23,93%)",302.0,5.0,153700.0
+PICO,PT. Pelangi Indah Canindo Tbk,280.0,"0 (0,00%)",31.0,9.0,159040.0
+LPLI,PT. Star Pacific Tbk,136.0,"-4 (-2,86%)",-69.0,-2.0,159120.0
+TMPO,PT. Tempo Inti Media Tbk,152.0,"-20 (-11,63%)",1.0,192.0,160816.0
+SKYB,PT. Northcliff Citranusa Indonesia Tbk,284.0,"2 (0,71%)",-3.0,-102.0,166140.0
+ARTA,PT. Arthavest Tbk,376.0,"-10 (-2,59%)",10.0,39.0,167696.0
+BTON,PT. Betonjaya Manunggal Tbk,236.0,"-16 (-6,35%)",52.0,5.0,169920.0
+ERTX,PT. Eratex Djaja Tbk,133.0,"-1 (-0,75%)",24.0,5.0,171038.0
+AHAP,PT. Asuransi Harta Aman Pratama Tbk,61.0,"0 (0,00%)",-19.0,-3.0,179340.0
+BAJA,PT. Saranacentral Bajatama Tbk,100.0,"-5 (-4,76%)",-53.0,-2.0,180000.0
+ALKA,PT. Alakasa Industrindo Tbk,358.0,"-12 (-3,24%)",45.0,8.0,181506.0
+KPAL,PT. Steadfast Marine Tbk,184.0,"-4 (-2,13%)",1.0,145.0,182528.0
+APII,PT. Arita Prima Indonesia Tbk,170.0,"0 (0,00%)",33.0,5.0,182750.0
+AKSI,PT. Majapahit Inti Corpora Tbk,254.0,"4 (1,60%)",11.0,23.0,182880.0
+TIFA,PT. Tifa Finance Tbk,175.0,"2 (1,16%)",29.0,6.0,188825.0
+PGLI,PT. Pembangunan Graha Lestari Indah Tbk,390.0,"0 (0,00%)",21.0,18.0,190320.0
+SOTS,PT. Satria Mega Kencana Tbk,191.0,"-9 (-4,50%)",-29.0,-7.0,191000.0
+ARTO,PT. Bank Artos Indonesia Tbk,160.0,"0 (0,00%)",-11.0,-14.0,191040.0
+ASDM,PT. Asuransi Dayin Mitra Tbk,1020.0,"-20 (-1,92%)",100.0,10.0,195840.0
+RIGS,PT. Rig Tenders Indonesia Tbk,322.0,"-4 (-1,23%)",53.0,6.0,196098.0
+MIRA,PT. Mitra International Resources Tbk,50.0,"0 (0,00%)",2.0,27.0,198050.0
+LAPD,PT. Leyand International Tbk,50.0,"0 (0,00%)",-9.0,-6.0,198300.0
+RUIS,PT. Radiant Utama Interinsco Tbk,258.0,"-2 (-0,77%)",35.0,7.0,198660.0
+ESTI,PT. Ever Shine Textile Tbk,99.0,"-1 (-1,00%)",-8.0,-12.0,199485.0
+HOME,PT. Hotel Mandarine Regency Tbk,90.0,"0 (0,00%)",-11.0,-8.0,203940.0
+NICK,PT. Charnic Capital Tbk,322.0,"0 (0,00%)",11.0,29.0,209622.0
+KOIN,PT. Kokoh Inti Arebama Tbk,220.0,"40 (22,22%)",-14.0,-16.0,215600.0
+DSFI,PT. Dharma Samudera Fishing Industries Tbk,121.0,"-2 (-1,63%)",5.0,26.0,224697.0
+TRIS,PT. Trisula International Tbk,228.0,"0 (0,00%)",6.0,38.0,238716.0
+TRUS,PT. Trust Finance Indonesia Tbk,300.0,"0 (0,00%)",22.0,14.0,240000.0
+YULE,PT. Yulie Sekuritas Indonesia Tbk,136.0,"0 (0,00%)",6.0,25.0,242760.0
+CLPI,PT. Colorpak Indonesia Tbk,805.0,"0 (0,00%)",54.0,15.0,246330.0
+RBMS,PT. Ristia Bintang Mahkotasejati Tbk,93.0,"4 (4,49%)",1.0,64.0,247008.0
+CPRI,PT. Capri Nusa Satu Properti Tbk,103.0,"2 (1,98%)",-24.0,-4.0,250599.0
+MDRN,PT. Modern Internasional Tbk,50.0,"0 (0,00%)",1.0,72.0,251600.0
+LPPS,PT. Lippo Securities Tbk,98.0,"-2 (-2,00%)",15.0,7.0,253624.0
+LEAD,PT. Logindo Samudramakmur Tbk,63.0,"-5 (-7,35%)",-33.0,-2.0,255087.0
+MICE,PT. Multi Indocitra Tbk,440.0,"-8 (-1,79%)",55.0,8.0,264000.0
+BBRM,PT. Pelayaran Nasional Bina Buana Raya Tbk,50.0,"0 (0,00%)",-20.0,-2.0,268350.0
+POLY,PT. Asia Pacific Fibers Tbk,110.0,"-8 (-6,78%)",134.0,1.0,274450.0
+INAI,PT. Indal Aluminium Industry Tbk,434.0,"-6 (-1,36%)",60.0,7.0,274722.0
+KBLM,PT. Kabelindo Murni Tbk,246.0,"2 (0,82%)",11.0,23.0,275520.0
+ARGO,PT. Argo Pantes Tbk,825.0,"0 (0,00%)",-14.0,-59.0,276375.0
+DGIK,PT. Nusa Konstruksi Enjiniring Tbk,50.0,"0 (0,00%)",-14.0,-4.0,277050.0
+UNSP,PT. Bakrie Sumatera Plantations Tbk,112.0,"1 (0,90%)",-592.0,-0.0,280000.0
+MTRA,PT. Mitra Pemuda Tbk,368.0,"0 (0,00%)",9.0,41.0,283360.0
+ALMI,PT. Alumindo Light Metal Industry Tbk,460.0,"-30 (-6,12%)",-84.0,-5.0,283360.0
+CINT,PT. Chitose Internasional Tbk,290.0,"0 (0,00%)",16.0,18.0,290000.0
+IKBI,PT. Sumi Indo Kabel Tbk,248.0,"-2 (-0,80%)",14.0,18.0,303552.0
+GZCO,PT. Gozco Plantations Tbk,51.0,"-1 (-1,92%)",-58.0,-1.0,306000.0
+IBFN,PT. Intan Baruprana Finance Tbk,202.0,"-20 (-9,01%)",-69.0,-3.0,306434.0
+OKAS,PT. Ancora Indonesia Resources Tbk,175.0,"15 (9,38%)",-38.0,-5.0,308875.0
+LION,PT. Lion Metal Works Tbk,595.0,"10 (1,71%)",52.0,12.0,309400.0
+PSDN,PT. Prasidha Aneka Niaga Tbk,216.0,"14 (6,93%)",-21.0,-10.0,311040.0
+TBMS,PT. Tembaga Mulia Semanan Tbk,850.0,"-60 (-6,59%)",152.0,6.0,311950.0
+YPAS,PT. Yanaprima Hastapersada Tbk,476.0,"20 (4,39%)",-14.0,-34.0,317968.0
+AKKU,PT. Anugerah Kagum Karya Utama Tbk,50.0,"0 (0,00%)",-1.0,-86.0,322450.0
+LCKM,PT. LCK Global Kedaton Tbk,328.0,"0 (0,00%)",0.0,847.0,328000.0
+SSTM,PT. Sunson Textile Manufacturer Tbk,284.0,"-88 (-23,66%)",17.0,17.0,332280.0
+SULI,PT. SLJ Global Tbk,84.0,"-1 (-1,18%)",22.0,4.0,334824.0
+BEEF,PT. Estika Tata Tiara Tbk,183.0,"-3 (-1,61%)",16.0,12.0,344772.0
+IGAR,PT. Champion Pacific Indonesia Tbk,370.0,"0 (0,00%)",35.0,11.0,359640.0
+RELI,PT. Reliance Sekuritas Indonesia Tbk,200.0,"0 (0,00%)",5.0,40.0,360000.0
+HDFA,PT. Radana Bhaskara Finance Tbk,160.0,"0 (0,00%)",-121.0,-1.0,372640.0
+ALDO,PT. Alkindo Naratama Tbk,340.0,"6 (1,80%)",22.0,15.0,374000.0
+SWAT,PT. Sriwahana Adityakarta Tbk,126.0,"1 (0,80%)",1.0,188.0,380394.0
+NELY,PT. Pelayaran Nelly Dwi Putri Tbk,162.0,"0 (0,00%)",22.0,7.0,380700.0
+AKPI,PT. Argha Karya Prima Industry Tbk,570.0,"0 (0,00%)",11.0,53.0,387600.0
+BKDP,PT. Bukit Darmo Property Tbk,57.0,"0 (0,00%)",-5.0,-11.0,389310.0
+GLOB,PT. Global Teleshop Tbk,352.0,"-28 (-7,37%)",-26.0,-13.0,391072.0
+ARTI,PT. Ratu Prabu Energi Tbk,50.0,"0 (0,00%)",1.0,52.0,392000.0
+KDSI,PT. Kedawung Setia Industrial Tbk,970.0,"-5 (-0,51%)",190.0,5.0,392850.0
+ABBA,PT. Mahaka Media Tbk,145.0,"-2 (-1,36%)",-5.0,-27.0,393965.0
+KOBX,PT. Kobexindo Tractors Tbk,177.0,"3 (1,72%)",16.0,11.0,402144.0
+ZONE,PT. Mega Perintis Tbk,510.0,"-10 (-1,92%)",73.0,7.0,406470.0
+NAGA,PT. Bank Mitraniaga Tbk,254.0,"-2 (-0,78%)",4.0,57.0,409448.0
+SMMT,PT. Golden Eagle Energy Tbk,131.0,"-2 (-1,50%)",24.0,5.0,412650.0
+GPRA,PT. Perdana Gapuraprima Tbk,97.0,"-2 (-2,02%)",6.0,17.0,414772.0
+TALF,PT. Tunas Alfin Tbk,310.0,"26 (9,15%)",30.0,10.0,419430.0
+LPGI,PT. Lippo General Insurance Tbk,2800.0,"0 (0,00%)",335.0,8.0,420000.0
+PNSE,PT. Pudjiadi & Sons Tbk,535.0,"5 (0,94%)",-1.0,-622.0,426395.0
+SRSN,PT. Indo Acidatama Tbk,71.0,"2 (2,90%)",7.0,10.0,427420.0
+BIPP,PT. Bhuwanatala Indah Permai Tbk,86.0,"0 (0,00%)",-6.0,-15.0,432408.0
+AMIN,PT. Ateliers Mecaniques D'Indonesie Tbk,402.0,"-30 (-6,94%)",22.0,19.0,434160.0
+BELL,PT. Trisula Textile Industries Tbk,300.0,"22 (7,91%)",15.0,20.0,435000.0
+KOPI,PT. Mitra Energi Persada Tbk,630.0,"-10 (-1,56%)",-19.0,-33.0,439110.0
+GTBO,PT. Garda Tujuh Buana Tbk,176.0,"-15 (-7,85%)",44.0,4.0,440000.0
+HOTL,PT. Saraswati Griya Lestari Tbk,126.0,"-1 (-0,79%)",-1.0,-137.0,447300.0
+CNKO,PT. Exploitasi Energi Indonesia Tbk,50.0,"0 (0,00%)",-94.0,-1.0,447800.0
+MAGP,PT. Multi Agro Gemilang Plantation Tbk,50.0,"0 (0,00%)",-1.0,-42.0,450000.0
+INCF,PT. Indo Komoditi Korpora Tbk,314.0,"0 (0,00%)",5.0,62.0,451532.0
+HDTX,PT. Panasia Indo Resources Tbk,126.0,"7 (5,88%)",-0.0,-6300.0,453726.0
+MFMI,PT. Multifiling Mitra Indonesia Tbk,600.0,"10 (1,69%)",35.0,17.0,454200.0
+COCO,PT. Wahana Interfood Nusantara Tbk,910.0,"0 (0,00%)",7.0,135.0,462280.0
+BUDI,PT. Budi Starch & Sweetener Tbk,103.0,"-1 (-0,96%)",8.0,12.0,463294.0
+STAR,PT. Star Petrochem Tbk,97.0,"-2 (-2,02%)",0.0,14345.0,465600.0
+ASRM,PT. Asuransi Ramayana Tbk,2200.0,"0 (0,00%)",358.0,6.0,470800.0
+JAWA,PT. Jaya Agra Wattie Tbk,126.0,"0 (0,00%)",-79.0,-2.0,475524.0
+PANR,PT. Panorama Sentrawisata Tbk,398.0,"0 (0,00%)",-15.0,-27.0,477600.0
+DYAN,PT. Dyandra Media International Tbk,116.0,"2 (1,75%)",7.0,16.0,495552.0
+IATA,PT. Indonesia Transport & Infrastructure Tbk,50.0,"0 (0,00%)",-14.0,-4.0,498950.0
+GAMA,PT. Gading Development Tbk,50.0,"0 (0,00%)",0.0,253.0,500550.0
+KIOS,PT. Kioson Komersial Indonesia Tbk,700.0,"-100 (-12,50%)",7.0,96.0,501900.0
+PEGE,PT. Panca Global Kapital Tbk,179.0,"0 (0,00%)",27.0,7.0,507107.0
+WIIM,PT. Wismilak Inti Makmur Tbk,246.0,"-18 (-6,82%)",20.0,12.0,516354.0
+PSKT,PT. Red Planet Indonesia Tbk,50.0,"0 (0,00%)",-3.0,-18.0,517550.0
+GEMA,PT. Gema Grahasarana Tbk,324.0,"-2 (-0,61%)",15.0,21.0,518400.0
+DAYA,PT. Duta Intidaya Tbk,216.0,"-4 (-1,82%)",2.0,101.0,522720.0
+NUSA,PT. Sinergi Megah Internusa Tbk,69.0,"0 (0,00%)",-1.0,-55.0,531300.0
+DPUM,PT. Dua Putra Utama Makmur Tbk,129.0,"0 (0,00%)",11.0,11.0,538575.0
+ITMA,PT. Sumber Energi Andalan Tbk,795.0,"0 (0,00%)",138.0,6.0,540600.0
+DNAR,PT. Bank Dinar Indonesia Tbk,250.0,"-36 (-12,59%)",4.0,58.0,556750.0
+DIGI,PT. Arkadia Digital Media Tbk,1715.0,"5 (0,29%)",2.0,696.0,557375.0
+EKAD,PT. Ekadharma International Tbk,810.0,"-5 (-0,61%)",132.0,6.0,565380.0
+MDKI,PT. Emdeki Utama Tbk,224.0,"-8 (-3,45%)",15.0,15.0,566720.0
+SPMA,PT. Suparma Tbk,270.0,"6 (2,27%)",20.0,13.0,570780.0
+OCAP,PT. Onix Capital Tbk,2100.0,"325 (18,31%)",-145.0,-14.0,573300.0
+NIPS,PT. Nipress Tbk,352.0,"0 (0,00%)",3.0,139.0,575520.0
+MYTX,PT. Asia Pacific Investama Tbk,75.0,"0 (0,00%)",-24.0,-3.0,581025.0
+SAPX,PT. Satria Antaran Prima Tbk,700.0,"-45 (-6,04%)",-8.0,-90.0,583100.0
+SKRN,PT. Superkrane Mitra Utama Tbk,400.0,"-6 (-1,48%)",77.0,5.0,600000.0
+IPOL,PT. Indopoly Swakarsa Industry Tbk,95.0,"0 (0,00%)",9.0,10.0,612085.0
+ADES,PT. Akasha Wira International Tbk,1045.0,"5 (0,48%)",80.0,13.0,615505.0
+ENRG,PT. Energi Mega Persada Tbk,60.0,"-1 (-1,64%)",6.0,11.0,620520.0
+BNBA,PT. Bank Bumi Arta Tbk,284.0,"-8 (-2,74%)",36.0,8.0,649224.0
+RANC,PT. Supra Boga Lestari Tbk,416.0,"62 (17,51%)",27.0,15.0,650624.0
+BBHI,PT. Bank Harda Internasional Tbk,164.0,"1 (0,61%)",-6.0,-26.0,679288.0
+GHON,PT. Gihon Telekomunikasi Indonesia Tbk,1255.0,"0 (0,00%)",56.0,22.0,690250.0
+BUVA,PT. Bukit Uluwatu Villa Tbk,103.0,"-2 (-1,90%)",-8.0,-13.0,701533.0
+VRNA,PT. Verena Multi Finance Tbk,124.0,"-5 (-3,88%)",-34.0,-4.0,705188.0
+TPMA,PT. Trans Power Marine Tbk,274.0,"-2 (-0,72%)",42.0,7.0,721442.0
+LUCK,PT. Sentral Mitra Informatika Tbk,1010.0,"60 (6,32%)",3.0,317.0,722150.0
+BAYU,PT. Bayu Buana Tbk,2080.0,"40 (1,96%)",87.0,24.0,734240.0
+MAMI,PT. Mas Murni Indonesia Tbk,145.0,"-3 (-2,03%)",1.0,177.0,743415.0
+CEKA,PT. Wilmar Cahaya Indonesia  Tbk,1250.0,"-40 (-3,10%)",92.0,14.0,743750.0
+ISSP,PT. Steel Pipe Industry of Indonesia Tbk,104.0,"-1 (-0,95%)",3.0,36.0,747240.0
+KBLV,PT. First Media Tbk,430.0,"-18 (-4,02%)",-1842.0,-0.0,749060.0
+SMDM,PT. Suryamas Dutamakmur Tbk,157.0,"10 (6,80%)",7.0,22.0,749204.0
+WICO,PT. Wicaksana Overseas International Tbk,600.0,"-10 (-1,64%)",-10.0,-62.0,760800.0
+MABA,PT. Marga Abhinaya Abadi Tbk,50.0,"-1 (-1,96%)",-14.0,-4.0,768250.0
+BBLD,PT. Buana Finance Tbk,480.0,"0 (0,00%)",27.0,18.0,789600.0
+BATA,PT. Sepatu Bata Tbk,610.0,"-10 (-1,61%)",54.0,11.0,793000.0
+JMAS,PT. Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk,800.0,"-45 (-5,33%)",1.0,1522.0,800000.0
+ALTO,PT. Tri Banyan Tirta Tbk,374.0,"-22 (-5,56%)",-23.0,-17.0,819434.0
+DWGL,PT. Dwi Guna Laksana Tbk,96.0,"0 (0,00%)",-4.0,-27.0,829152.0
+MKNT,PT. Mitra Komunikasi Nusantara Tbk,166.0,"-24 (-12,63%)",7.0,25.0,830000.0
+GDST,PT. Gunawan Dianjaya Steel Tbk,90.0,"-2 (-2,17%)",-10.0,-9.0,831780.0
+EMDE,PT. Megapolitan Developments Tbk,250.0,"6 (2,46%)",2.0,133.0,837500.0
+PSSI,PT. Pelita Samudera Shipping Tbk,167.0,"-1 (-0,60%)",40.0,4.0,840511.0
+GSMF,PT. Equity Development Investment Tbk,113.0,"3 (2,73%)",8.0,15.0,842302.0
+SKBM,PT. Sekar Bumi Tbk,498.0,"66 (15,28%)",10.0,52.0,859548.0
+GDYR,PT. Goodyear Indonesia Tbk,2100.0,"100 (5,00%)",-26.0,-81.0,861000.0
+FPNI,PT. Lotte Chemical Titan Tbk,155.0,"0 (0,00%)",17.0,9.0,862730.0
+INRU,PT. Toba Pulp Lestari Tbk,630.0,"0 (0,00%)",0.0,222301.0,874440.0
+BGTG,PT. Bank Ganesha Tbk,80.0,"0 (0,00%)",1.0,158.0,885040.0
+IDPR,PT. Indonesia Pondasi Raya Tbk,446.0,"-2 (-0,45%)",21.0,21.0,893338.0
+TMAS,PT. Pelayaran Tempuran Emas Tbk,785.0,"0 (0,00%)",14.0,57.0,895685.0
+WINS,PT. Wintermar Offshore Marine Tbk,214.0,"0 (0,00%)",-87.0,-2.0,906932.0
+VICO,PT. Victoria Investama Tbk,102.0,"1 (0,99%)",7.0,15.0,933300.0
+PDES,PT. Destinasi Tirta Nusantara Tbk,1330.0,"-50 (-3,62%)",19.0,71.0,950950.0
+ADMG,PT. Polychem Indonesia Tbk,246.0,"-14 (-5,38%)",45.0,6.0,956694.0
+JECC,PT. Jembo Cable Company Tbk,6400.0,"0 (0,00%)",668.0,10.0,966400.0
+PBSA,PT. Paramita Bangun Sarana Tbk,650.0,"5 (0,78%)",45.0,15.0,975000.0
+NRCA,PT. Nusa Raya Cipta Tbk,400.0,"-4 (-0,99%)",47.0,8.0,998400.0
+SMDR,PT. Samudera Indonesia Tbk,306.0,"-8 (-2,55%)",40.0,8.0,1002150.0
+SIPD,PT. Sierad Produce Tbk,750.0,"0 (0,00%)",18.0,42.0,1004250.0
+DART,PT. Duta Anggada Realty Tbk,320.0,"-8 (-2,44%)",7.0,48.0,1005120.0
+PANS,PT. Panin Sekuritas Tbk,1435.0,"0 (0,00%)",47.0,30.0,1033200.0
+SKLT,PT. Sekar Laut Tbk,1500.0,"0 (0,00%)",29.0,51.0,1035000.0
+TRST,PT. Trias Sentosa Tbk,370.0,"-10 (-2,63%)",15.0,25.0,1038960.0
+BNBR,PT. Bakrie & Brothers Tbk,50.0,"0 (0,00%)",-79.0,-1.0,1043150.0
+TRIM,PT. Trimegah Sekuritas Indonesia Tbk,147.0,"1 (0,68%)",9.0,17.0,1045023.0
+BRNA,PT. Berlina Tbk,1080.0,"-25 (-2,26%)",-34.0,-31.0,1057320.0
+ACST,PT. Acset Indonusa Tbk,1555.0,"-25 (-1,58%)",26.0,60.0,1088500.0
+DEWA,PT. Darma Henwa Tbk,50.0,"0 (0,00%)",1.0,66.0,1092650.0
+INPC,PT. Bank Artha Graha Internasional Tbk,71.0,"-2 (-2,74%)",4.0,18.0,1110298.0
+LTLS,PT. Lautan Luas Tbk,720.0,"30 (4,35%)",100.0,7.0,1123200.0
+HKMU,PT. HK Metals Utama Tbk,350.0,"-4 (-1,13%)",22.0,16.0,1127350.0
+JGLE,PT. Graha Andrasentra Propertindo Tbk,50.0,"0 (0,00%)",-2.0,-24.0,1129050.0
+JIHD,PT. Jakarta International Hotels & Development Tbk,494.0,"0 (0,00%)",1.0,543.0,1150526.0
+BPFI,PT. Batavia Prosperindo  Finance Tbk,650.0,"0 (0,00%)",43.0,15.0,1158300.0
+BABP,PT. Bank MNC Internasional Tbk,50.0,"0 (0,00%)",6.0,9.0,1159500.0
+WOMF,PT. Wahana Ottomitra Multiartha Tbk,336.0,"-2 (-0,59%)",62.0,5.0,1169616.0
+BLTA,PT. Berlian Laju Tanker Tbk,50.0,"0 (0,00%)",3.0,15.0,1174150.0
+HRTA,PT. Hartadinata Abadi Tbk,256.0,"-4 (-1,54%)",30.0,9.0,1178880.0
+KKGI,PT. Resource Alam Indonesia Tbk,236.0,"-32 (-11,94%)",2.0,123.0,1180000.0
+DKFT,PT. Central Omega Resources Tbk,210.0,"0 (0,00%)",-9.0,-22.0,1183980.0
+COWL,PT. Cowell Development Tbk,244.0,"-6 (-2,40%)",-56.0,-4.0,1188524.0
+MBSS,PT. Mitrabahtera  Segara Sejati Tbk,680.0,"-30 (-4,23%)",-118.0,-6.0,1190000.0
+DEFI,PT. Danasupra Erapacific Tbk,1765.0,"-20 (-1,12%)",4.0,496.0,1193140.0
+DEAL,PT. Dewata Freightinternational Tbk,1080.0,"-25 (-2,26%)",1.0,1276.0,1209600.0
+SUGI,PT. Sugih Energy Tbk,50.0,"0 (0,00%)",-1.0,-45.0,1240550.0
+RAJA,PT. Rukun Raharja Tbk,304.0,"24 (8,57%)",32.0,9.0,1285008.0
+VOKS,PT. Voksel Electric Tbk,310.0,"-6 (-1,90%)",16.0,19.0,1288050.0
+CFIN,PT. Clipan Finance Indonesia Tbk,326.0,"2 (0,62%)",76.0,4.0,1298784.0
+JSKY,PT. Sky Energy Indonesia Tbk,1285.0,"-10 (-0,77%)",27.0,47.0,1305560.0
+LPCK,PT. Lippo Cikarang Tbk,1885.0,"-55 (-2,84%)",3096.0,1.0,1311960.0
+MARI,PT. Mahaka Radio Integra Tbk,252.0,"-4 (-1,56%)",6.0,39.0,1323504.0
+PTSN,PT. Sat Nusapersada Tbk,765.0,"-35 (-4,38%)",119.0,6.0,1354815.0
+BVIC,PT. Bank Victoria International Tbk,160.0,"0 (0,00%)",9.0,17.0,1373440.0
+JTPE,PT. Jasuindo Tiga Perkasa Tbk,810.0,"5 (0,62%)",33.0,24.0,1387530.0
+BMAS,PT. Bank Maspion Indonesia Tbk,318.0,"16 (5,30%)",9.0,35.0,1398882.0
+BULL,PT. Buana Lintas Lautan Tbk,192.0,"-2 (-1,03%)",27.0,7.0,1401408.0
+DFAM,PT. Dafam Property Indonesia Tbk,805.0,"-10 (-1,23%)",-3.0,-256.0,1432095.0
+PNBS,PT. Bank Panin Dubai Syariah Tbk,61.0,"-2 (-3,17%)",1.0,70.0,1446859.0
+ECII,PT. Electronic City Indonesia Tbk,1090.0,"-5 (-0,46%)",14.0,81.0,1454060.0
+CASS,PT. Cardig Aero Services Tbk,700.0,"0 (0,00%)",58.0,12.0,1460200.0
+ATIC,PT. Anabatic Technologies Tbk,790.0,"-10 (-1,25%)",-10.0,-77.0,1481250.0
+HOKI,PT. Buyung Poetra Sembada Tbk,625.0,"-15 (-2,34%)",40.0,16.0,1485000.0
+KIAS,PT. Keramika Indonesia Assosiasi Tbk,100.0,"2 (2,04%)",-5.0,-21.0,1492900.0
+AMAG,PT. Asuransi Multi Artha Guna Tbk,300.0,"0 (0,00%)",19.0,16.0,1500300.0
+BBYB,PT. Bank Yudha Bhakti Tbk,268.0,"0 (0,00%)",10.0,26.0,1502140.0
+SOCI,PT. Soechi Lines Tbk,214.0,"-4 (-1,83%)",19.0,11.0,1510626.0
+GWSA,PT. Greenwood Sejahtera Tbk,194.0,"1 (0,52%)",17.0,11.0,1513200.0
+INDS,PT. Indospring Tbk,2310.0,"-20 (-0,86%)",226.0,10.0,1515360.0
+TRIO,PT. Trikomsel Oke Tbk,59.0,"-6 (-9,23%)",-1.0,-76.0,1534413.0
+PRIM,PT. Royal Prima Tbk,454.0,"-2 (-0,44%)",6.0,81.0,1540422.0
+MPPA,PT. Matahari Putra Prima Tbk,206.0,"0 (0,00%)",-59.0,-3.0,1550974.0
+FORZ,PT. Forza Land Indonesia Tbk,785.0,"0 (0,00%)",1.0,548.0,1556655.0
+IPCM,PT. Jasa Armada Indonesia Tbk,300.0,"-26 (-7,98%)",15.0,19.0,1585200.0
+AGRS,PT. Bank Agris Tbk,306.0,"0 (0,00%)",-6.0,-51.0,1592118.0
+INTA,PT. Intraco Penta Tbk,478.0,"0 (0,00%)",-93.0,-5.0,1593652.0
+APEX,PT. Apexindo Pratama Duta Tbk,600.0,"-150 (-20,00%)",-259.0,-2.0,1595400.0
+PTSP,PT. Pioneerindo Gourmet International Tbk,7275.0,"275 (3,93%)",59.0,123.0,1600500.0
+AGII,PT. Aneka Gas Industri Tbk,540.0,"-10 (-1,82%)",33.0,17.0,1655640.0
+MLPT,PT. Multipolar Technology Tbk,890.0,"0 (0,00%)",38.0,23.0,1668750.0
+MSIN,PT. MNC Studios International Tbk,322.0,"-4 (-1,23%)",44.0,7.0,1675044.0
+PORT,PT. Nusantara Pelabuhan Handal Tbk,600.0,"-50 (-7,69%)",0.0,2271.0,1687800.0
+ASGR,PT. Astra Graphia Tbk,1255.0,"-10 (-0,79%)",76.0,17.0,1691740.0
+CITY,PT. Natura City Developments Tbk,316.0,"0 (0,00%)",4.0,74.0,1706716.0
+MLIA,PT. Mulia Industrindo Tbk,1310.0,"15 (1,16%)",794.0,2.0,1733130.0
+PTRO,PT. Petrosea Tbk,1745.0,"-60 (-3,32%)",330.0,5.0,1758960.0
+FISH,PT. FKS Multi Agro Tbk,3730.0,"0 (0,00%)",415.0,9.0,1790400.0
+PALM,PT. Provident Agro Tbk,252.0,"-8 (-3,08%)",-16.0,-16.0,1793988.0
+MERK,PT. Merck Tbk,4010.0,"-40 (-0,99%)",412.0,10.0,1796480.0
+NFCX,PT. NFC Indonesia Tbk,2700.0,"10 (0,37%)",29.0,94.0,1798200.0
+MLPL,PT. Multipolar Tbk,123.0,"-2 (-1,60%)",-82.0,-2.0,1800597.0
+KBLI,PT. KMI Wire and Cable Tbk,450.0,"6 (1,35%)",35.0,13.0,1803150.0
+MSKY,PT. MNC Sky Vision Tbk,1000.0,"40 (4,17%)",-175.0,-6.0,1813000.0
+RDTX,PT. Roda Vivatex Tbk,6850.0,"0 (0,00%)",984.0,7.0,1835800.0
+BTEL,PT. Bakrie Telecom Tbk,50.0,"0 (0,00%)",-30.0,-2.0,1838650.0
+PEHA,PT. Phapros Tbk,2200.0,"0 (0,00%)",162.0,14.0,1848000.0
+FMII,PT. Fortune Mate Indonesia Tbk,685.0,"0 (0,00%)",3.0,241.0,1863885.0
+SCCO,PT. Supreme Cable Manufacturing & Commerce Tbk,9150.0,"0 (0,00%)",1278.0,7.0,1875750.0
+SONA,PT. Sona Topas Tourism Industry Tbk,5700.0,"400 (7,55%)",315.0,18.0,1886700.0
+BOLT,PT. Garuda Metalindo Tbk,825.0,"-15 (-1,79%)",34.0,24.0,1932975.0
+UNIC,PT. Unggul Indah Cahaya Tbk,5100.0,"50 (0,99%)",932.0,5.0,1953300.0
+MARK,PT. Mark Dynamics Indonesia Tbk,515.0,"-5 (-0,96%)",19.0,27.0,1957000.0
+IKAI,PT. Intikeramik Alamasri Industri Tbk,163.0,"-1 (-0,61%)",6.0,28.0,1971648.0
+GMTD,PT. Gowa Makassar Tourism Development Tbk,19850.0,"-50 (-0,25%)",608.0,33.0,2004850.0
+BIPI,PT. Astrindo Nusantara Infrastruktur Tbk,50.0,"0 (0,00%)",7.0,7.0,2007900.0
+PBID,PT. Panca Budi Idaman Tbk,1075.0,"0 (0,00%)",157.0,7.0,2015625.0
+MTPS,PT. Meta Epsi Tbk,970.0,"-320 (-24,81%)",4.0,266.0,2019540.0
+HRME,PT. Menteng Heritage Realty Tbk,342.0,"-14 (-3,93%)",-4.0,-87.0,2037636.0
+DIVA,PT. Distribusi Voucher Nusantara Tbk,2860.0,"-40 (-1,38%)",11.0,252.0,2042040.0
+TOTL,PT. Total Bangun Persada Tbk,600.0,"-5 (-0,83%)",61.0,10.0,2046000.0
+INPS,PT. Indah Prakasa Sentosa Tbk,3180.0,"0 (0,00%)",-20.0,-161.0,2067000.0
+DUCK,PT. Jaya Bersama Indo Tbk,1655.0,"90 (5,75%)",83.0,20.0,2123365.0
+KRAH,PT. Grand Kartech Tbk,2200.0,"-10 (-0,45%)",-48.0,-46.0,2136200.0
+PJAA,PT. Pembangunan Jaya Ancol Tbk,1350.0,"30 (2,27%)",27.0,49.0,2158650.0
+SHIP,PT. Sillo Maritime Perdana Tbk,800.0,"-5 (-0,62%)",60.0,13.0,2175200.0
+ELTY,PT. Bakrieland Development Tbk,50.0,"0 (0,00%)",95.0,1.0,2176050.0
+CMPP,PT. AirAsia Indonesia Tbk,204.0,"4 (2,00%)",-80.0,-3.0,2179740.0
+BACA,PT. Bank Capital Indonesia Tbk,314.0,"6 (1,95%)",19.0,17.0,2197686.0
+CSAP,PT. Catur Sentosa Adiprana Tbk,500.0,"-90 (-15,25%)",17.0,30.0,2229000.0
+VIVA,PT. Visi Media Asia Tbk,137.0,"-5 (-3,52%)",-67.0,-2.0,2255568.0
+AMFG,PT. Asahimas Flat Glass Tbk,5200.0,"-450 (-7,96%)",140.0,37.0,2256800.0
+POLI,PT. Pollux Investasi Internasional Tbk,1125.0,"25 (2,27%)",36.0,31.0,2261250.0
+TGRA,PT. Terregra Asia Energy Tbk,830.0,"-5 (-0,60%)",1.0,1463.0,2282500.0
+BOSS,PT. Borneo Olah Sarana Sukses Tbk,1655.0,"-45 (-2,65%)",16.0,104.0,2317000.0
+SMRU,PT. SMR Utama Tbk,186.0,"-10 (-5,10%)",-6.0,-33.0,2324814.0
+IPCC,PT. Indonesia Kendaraan Terminal Tbk,1320.0,"0 (0,00%)",108.0,12.0,2399760.0
+ARII,PT. Atlas Resources Tbk,805.0,"-40 (-4,73%)",-137.0,-6.0,2415000.0
+MOLI,PT. Madusari Murni Indah Tbk,1050.0,"-25 (-2,33%)",36.0,29.0,2450700.0
+MCOR,PT. Bank China Construction Bank Indonesia Tbk,149.0,"-1 (-0,67%)",5.0,27.0,2453285.0
+DVLA,PT. Darya-Varia Laboratoria Tbk,2200.0,"0 (0,00%)",194.0,11.0,2464000.0
+LAND,PT. Trimitra Propertindo Tbk,900.0,"15 (1,69%)",6.0,147.0,2512800.0
+GJTL,PT. Gajah Tunggal Tbk,725.0,"0 (0,00%)",-88.0,-8.0,2525900.0
+HEXA,PT. Hexindo Adiperkasa Tbk,3050.0,"-50 (-1,61%)",408.0,7.0,2562000.0
+SRAJ,PT. Sejahteraraya Anugrahjaya Tbk,214.0,"0 (0,00%)",-6.0,-34.0,2568000.0
+SPTO,PT. Surya Pertiwi Tbk,960.0,"20 (2,13%)",73.0,13.0,2592000.0
+KMTR,PT. Kirana Megatara Tbk,320.0,"0 (0,00%)",11.0,28.0,2628800.0
+MFIN,PT. Mandala Multifinance Tbk,995.0,"0 (0,00%)",110.0,9.0,2636750.0
+MAIN,PT. Malindo Feedmill Tbk,1185.0,"-20 (-1,66%)",111.0,11.0,2652030.0
+BEST,PT. Bekasi Fajar Industrial Estate Tbk,278.0,"-18 (-6,08%)",21.0,13.0,2681866.0
+MTDL,PT. Metrodata Electronics Tbk,1105.0,"-10 (-0,90%)",104.0,11.0,2712775.0
+CENT,PT. Centratama Telekomunikasi Indonesia Tbk,87.0,"1 (1,16%)",1.0,76.0,2712921.0
+ELSA,PT. Elnusa Tbk,372.0,"-8 (-2,11%)",38.0,10.0,2714856.0
+ASSA,PT. Adi Sarana Armada Tbk,805.0,"25 (3,21%)",42.0,19.0,2734585.0
+MYOH,PT. Samindo Resources Tbk,1250.0,"0 (0,00%)",203.0,6.0,2757500.0
+ARMY,PT. Armidian Karyatama Tbk,310.0,"-6 (-1,90%)",10.0,31.0,2791860.0
+BOGA,PT. Bintang Oto Global Tbk,755.0,"-15 (-1,95%)",1.0,1135.0,2871265.0
+NIRO,PT. City Retail Developments Tbk,130.0,"0 (0,00%)",-1.0,-177.0,2885740.0
+JSPT,PT. Jakarta Setiabudi Internasional Tbk,1260.0,"35 (2,86%)",126.0,10.0,2920680.0
+SSIA,PT. Surya Semesta Internusa Tbk,625.0,"-35 (-5,30%)",8.0,78.0,2940625.0
+MBAP,PT. Mitrabara Adiperdana Tbk,2400.0,"-50 (-2,04%)",594.0,4.0,2944800.0
+MGRO,PT. Mahkota Group Tbk,840.0,"-25 (-2,89%)",24.0,35.0,2955120.0
+IIKP,PT. Inti Agri Resources Tbk,88.0,"-3 (-3,30%)",-0.0,-196.0,2956800.0
+ANDI,PT. Andira Agro Tbk,1585.0,"0 (0,00%)",10.0,161.0,2963950.0
+CPRO,PT. Central Proteina Prima Tbk,50.0,"0 (0,00%)",29.0,2.0,2978600.0
+MMLP,PT. Mega Manunggal Property Tbk,438.0,"-2 (-0,45%)",15.0,29.0,3017382.0
+TCID,PT. Mandom Indonesia Tbk,15025.0,"0 (0,00%)",861.0,17.0,3020025.0
+TFCO,PT. Tifico Fiber Indonesia Tbk,630.0,"20 (3,28%)",2.0,418.0,3038490.0
+TDPM,PT. Tridomain Performance Materials Tbk,292.0,"-4 (-1,35%)",16.0,18.0,3061620.0
+MCAS,PT. M Cash Integrasi Tbk,3550.0,"-30 (-0,84%)",93.0,38.0,3077850.0
+MREI,PT. Maskapai Reasuransi Indonesia Tbk,6000.0,"-300 (-4,76%)",210.0,29.0,3102000.0
+ANJT,PT. Austindo Nusantara Jaya Tbk,925.0,"-5 (-0,54%)",-1.0,-690.0,3102450.0
+BRMS,PT. Bumi Resources Minerals Tbk,50.0,"0 (0,00%)",0.0,631.0,3116100.0
+OMRE,PT. Indonesia Prima Property Tbk,1790.0,"0 (0,00%)",-40.0,-44.0,3123550.0
+PRDA,PT. Prodia Widyahusada Tbk,3340.0,"100 (3,09%)",187.0,18.0,3129580.0
+INDR,PT. Indo-Rama Synthetics Tbk,4840.0,"-20 (-0,41%)",2396.0,2.0,3165360.0
+BEKS,PT. Bank Pembangunan Daerah Banten Tbk,50.0,"0 (0,00%)",-2.0,-32.0,3173400.0
+APLN,PT. Agung Podomoro Land Tbk,167.0,"-5 (-2,91%)",34.0,5.0,3233788.0
+PBRX,PT. Pan Brothers Tbk,500.0,"-5 (-0,99%)",34.0,15.0,3239000.0
+TOBA,PT. Toba Bara Sejahtra Tbk,1610.0,"25 (1,58%)",272.0,6.0,3239320.0
+BPII,PT. Batavia Prosperindo Internasional Tbk,6500.0,"0 (0,00%)",167.0,39.0,3341000.0
+SAME,PT. Sarana Meditama Metropolitan Tbk,570.0,"0 (0,00%)",11.0,50.0,3363000.0
+MTLA,PT. Metropolitan Land Tbk,446.0,"4 (0,90%)",53.0,8.0,3414130.0
+WEGE,PT. Wijaya Karya Bangunan Gedung Tbk,358.0,"-4 (-1,10%)",46.0,8.0,3426776.0
+CTBN,PT. Citra Tubindo Tbk,4300.0,"-400 (-8,51%)",6.0,679.0,3440000.0
+DILD,PT. Intiland Development Tbk,332.0,"-2 (-0,60%)",16.0,21.0,3441180.0
+MIDI,PT. Midi Utama Indonesia Tbk,1200.0,"-5 (-0,41%)",38.0,32.0,3458400.0
+BBKP,PT. Bank Bukopin Tbk,300.0,"-4 (-1,32%)",36.0,8.0,3460500.0
+IMJS,PT. Indomobil Multi Jasa Tbk,605.0,"-15 (-2,42%)",32.0,19.0,3490245.0
+META,PT. Nusantara Infrastucture Tbk,198.0,"1 (0,51%)",14.0,14.0,3506580.0
+HRUM,PT. Harum Energy Tbk,1315.0,"-25 (-1,87%)",170.0,8.0,3554445.0
+CAMP,PT. Campina Ice Cream Industry Tbk,615.0,"-10 (-1,60%)",10.0,61.0,3619275.0
+SHID,PT. Hotel Sahid Jaya International Tbk,3250.0,"-40 (-1,22%)",-3.0,-974.0,3636750.0
+SQMI,PT. Renuka Coalindo Tbk,236.0,"2 (0,85%)",0.0,4855.0,3666732.0
+PZZA,PT. Sarimelati Kencana Tbk,1215.0,"0 (0,00%)",45.0,27.0,3670515.0
+TGKA,PT. Tigaraksa Satria Tbk,4000.0,"-100 (-2,44%)",309.0,13.0,3672000.0
+CLEO,PT. Sariguna Primatirta Tbk,306.0,"-12 (-3,77%)",5.0,58.0,3672000.0
+ERAA,PT. Erajaya Swasembada Tbk,1155.0,"25 (2,21%)",266.0,4.0,3684450.0
+POLA,PT. Pool Advista Finance Tbk,1360.0,"-30 (-2,16%)",14.0,95.0,3701920.0
+MDLN,PT. Modernland Realty Tbk,296.0,"-4 (-1,33%)",8.0,38.0,3709768.0
+KINO,PT. Kino Indonesia Tbk,2600.0,"0 (0,00%)",98.0,26.0,3712800.0
+ARNA,PT. Arwana Citramulia Tbk,510.0,"-15 (-2,86%)",21.0,24.0,3743910.0
+HERO,PT. Hero Supermarket Tbk,900.0,"-80 (-8,16%)",-299.0,-3.0,3764700.0
+BKSW,PT. Bank QNB Indonesia Tbk,188.0,"23 (13,94%)",-11.0,-18.0,3803616.0
+TOTO,PT. Surya Toto Indonesia Tbk,374.0,"2 (0,54%)",38.0,10.0,3859680.0
+CARS,PT. Industri dan Perdagangan Bintraco Dharma Tbk,2590.0,"0 (0,00%)",180.0,14.0,3885000.0
+ABDA,PT. Asuransi Bina Dana Arta Tbk,6400.0,"800 (14,29%)",247.0,26.0,3968000.0
+NOBU,PT. Bank Nationalnobu Tbk,905.0,"-45 (-4,74%)",1.0,820.0,3975665.0
+DSNG,PT. Dharma Satya Nusantara Tbk,378.0,"-2 (-0,53%)",40.0,10.0,4006422.0
+PPRE,PT. PP Presisi Tbk,394.0,"-14 (-3,43%)",32.0,12.0,4028256.0
+BHIT,PT. MNC Investama Tbk,78.0,"-3 (-3,70%)",-14.0,-6.0,4051242.0
+SURE,PT. Super Energy Tbk,2750.0,"0 (0,00%)",-19.0,-146.0,4116750.0
+MAPB,PT. MAP Boga Adiperkasa Tbk,1900.0,"15 (0,80%)",65.0,29.0,4123000.0
+IMPC,PT. Impack Pratama Industri Tbk,860.0,"20 (2,38%)",11.0,75.0,4156380.0
+BRAM,PT. Indo Kordsa Tbk,9300.0,"1.550 (20,00%)",542.0,17.0,4185000.0
+STTP,PT. Siantar Top Tbk,3200.0,"-100 (-3,03%)",203.0,16.0,4192000.0
+RODA,PT. Pikko Land Development Tbk,310.0,"10 (3,33%)",0.0,2592.0,4213520.0
+POOL,PT. Pool Advista Indonesia Tbk,1900.0,"-200 (-9,52%)",-45.0,-42.0,4278800.0
+BLTZ,PT. Graha Layar Prima Tbk,4950.0,"0 (0,00%)",39.0,127.0,4321350.0
+BISI,PT. BISI International Tbk,1460.0,"-45 (-2,99%)",135.0,11.0,4380000.0
+CMNP,PT. Citra Marga Nusaphala Persada Tbk,1230.0,"-35 (-2,77%)",188.0,7.0,4452600.0
+BINA,PT. Bank Ina Perdana Tbk,800.0,"0 (0,00%)",1.0,886.0,4477600.0
+TBLA,PT. Tunas Baru Lampung Tbk,845.0,"0 (0,00%)",142.0,6.0,4513990.0
+SGRO,PT. Sampoerna Agro Tbk,2400.0,"-40 (-1,64%)",29.0,82.0,4536000.0
+ESSA,PT. Surya Esa Perkasa Tbk,324.0,"-10 (-2,99%)",42.0,8.0,4633200.0
+DOID,PT. Delta Dunia Makmur Tbk,545.0,"5 (0,93%)",127.0,4.0,4692995.0
+RISE,PT. Jaya Sukses Makmur Sentosa Tbk,478.0,"0 (0,00%)",10.0,50.0,4756100.0
+TUGU,PT. Asuransi Tugu Pratama Indonesia Tbk,2680.0,"-10 (-0,37%)",142.0,19.0,4762360.0
+BTEK,PT. Bumi Teknokultura Unggul Tbk,105.0,"0 (0,00%)",2.0,64.0,4859085.0
+WTON,PT. Wijaya Karya Beton Tbk,570.0,"-5 (-0,87%)",56.0,10.0,4967550.0
+PSAB,PT. J Resources Asia Pasifik Tbk,189.0,"-2 (-1,05%)",8.0,23.0,5000940.0
+CITA,PT. Cita Mineral Investindo Tbk,1495.0,"35 (2,40%)",196.0,8.0,5038150.0
+BWPT,PT. Eagle High Plantations Tbk,160.0,"2 (1,27%)",-11.0,-14.0,5044000.0
+PCAR,PT. Prima Cakrawala Abadi Tbk,4350.0,"-10 (-0,23%)",-3.0,-1448.0,5072100.0
+FAST,PT. Fast Food Indonesia Tbk,2550.0,"0 (0,00%)",65.0,39.0,5087250.0
+MDIA,PT. Intermedia Capital Tbk,130.0,"4 (3,17%)",6.0,20.0,5097950.0
+TELE,PT. Tiphone Mobile Indonesia Tbk,700.0,"0 (0,00%)",61.0,11.0,5111400.0
+BSSR,PT. Baramulti Suksessarana Tbk,1975.0,"-5 (-0,25%)",382.0,5.0,5166600.0
+BUKK,PT. Bukaka Teknik Utama Tbk,1960.0,"25 (1,29%)",213.0,9.0,5174400.0
+BRIS,PT. Bank BRIsyariah Tbk,545.0,"-5 (-0,91%)",18.0,31.0,5241810.0
+KIJA,PT. Kawasan Industri Jababeka Tbk,252.0,"4 (1,61%)",-25.0,-10.0,5247648.0
+WOOD,PT. Integra Indocabinet Tbk,840.0,"5 (0,60%)",38.0,22.0,5297040.0
+NATO,PT. Nusantara Properti Internasional Tbk,690.0,"-5 (-0,72%)",0.0,1820.0,5520000.0
+SDRA,PT. Bank Woori Saudara Indonesia 1906 Tbk,850.0,"5 (0,59%)",80.0,11.0,5537750.0
+ABMM,PT. ABM Investama Tbk,2050.0,"10 (0,49%)",219.0,9.0,5643650.0
+DLTA,PT. Delta Djakarta Tbk,7075.0,"150 (2,17%)",388.0,18.0,5660000.0
+HITS,PT. Humpuss Intermoda Transportasi Tbk,800.0,"100 (14,29%)",25.0,33.0,5680800.0
+PNIN,PT. Paninvest Tbk,1400.0,"-20 (-1,41%)",256.0,5.0,5695200.0
+ADHI,PT. Adhi Karya (Persero) Tbk,1615.0,"-65 (-3,87%)",181.0,9.0,5749400.0
+TRAM,PT. Trada Alam Minera Tbk,117.0,"-5 (-4,10%)",6.0,20.0,5808231.0
+RIMO,PT. Rimo International Lestari Tbk,133.0,"0 (0,00%)",4.0,38.0,5858517.0
+MPMX,PT. Mitra Pinasthika Mustika Tbk,1325.0,"15 (1,15%)",1248.0,1.0,5912150.0
+BKSL,PT. Sentul City Tbk,107.0,"-4 (-3,60%)",1.0,103.0,5912606.0
+BALI,PT. Bali Towerindo Sentra Tbk,1550.0,"50 (3,33%)",13.0,119.0,5995400.0
+BMTR,PT. Global Mediacom Tbk,398.0,"-12 (-2,93%)",34.0,12.0,6102932.0
+BBMD,PT. Bank Mestika Dharma Tbk,1520.0,"0 (0,00%)",0.0,0.0,6154480.0
+EPMT,PT. Enseval Putera Megatrading Tbk,2300.0,"0 (0,00%)",231.0,10.0,6228400.0
+NIKL,PT. Pelat Timah Nusantara Tbk,2470.0,"-30 (-1,20%)",-9.0,-280.0,6231810.0
+GMFI,PT. Garuda Maintenance Facility Aero Asia Tbk,222.0,"-2 (-0,89%)",16.0,14.0,6267726.0
+BCAP,PT. MNC Kapital Indonesia Tbk,165.0,"-1 (-0,60%)",2.0,90.0,6357615.0
+ASMI,PT. Asuransi Kresna Mitra Tbk,715.0,"25 (3,62%)",12.0,58.0,6404970.0
+ASRI,PT. Alam Sutera Realty Tbk,326.0,"-14 (-4,12%)",43.0,8.0,6405574.0
+MINA,PT. Sanurhasta Mitra Tbk,985.0,"-15 (-1,50%)",-1.0,-1880.0,6463570.0
+TURI,PT. Tunas Ridean Tbk,1160.0,"0 (0,00%)",100.0,12.0,6472800.0
+PADI,PT. Minna Padi Investama Sekuritas Tbk,575.0,"-25 (-4,17%)",6.0,93.0,6501525.0
+SIMP,PT. Salim Ivomas Pratama Tbk,412.0,"-4 (-0,96%)",-5.0,-85.0,6516192.0
+APIC,PT. Pacific Strategic Financial Tbk,565.0,"-20 (-3,42%)",6.0,97.0,6647225.0
+AGRO,PT. Bank Rakyat Indonesia Agroniaga Tbk,320.0,"0 (0,00%)",10.0,33.0,6761280.0
+SRIL,PT. Sri Rejeki Isman Tbk,338.0,"-4 (-1,17%)",69.0,5.0,6912776.0
+NASA,PT. Ayana Land International Tbk,635.0,"-5 (-0,78%)",-1.0,-580.0,6987540.0
+JKON,PT. Jaya Konstruksi Manggala Pratama Tbk,444.0,"44 (11,00%)",8.0,59.0,7240752.0
+AUTO,PT. Astra Otoparts Tbk,1520.0,"-25 (-1,62%)",127.0,12.0,7324880.0
+TARA,PT. Sitara Propertindo Tbk,735.0,"-10 (-1,34%)",0.0,28820.0,7400715.0
+LPKR,PT. Lippo Karawaci Tbk,324.0,"-4 (-1,22%)",27.0,12.0,7476948.0
+URBN,PT. Urban Jakarta Propertindo Tbk,2350.0,"-40 (-1,67%)",14.0,164.0,7595200.0
+IMAS,PT. Indomobil Sukses Internasional Tbk,2750.0,"-70 (-2,48%)",39.0,70.0,7603750.0
+TSPC,PT. Tempo Scan Pacific Tbk,1690.0,"-35 (-2,03%)",125.0,14.0,7605000.0
+MASA,PT. Multistrada Arah Sarana Tbk,835.0,"0 (0,00%)",1.0,682.0,7666970.0
+SILO,PT. Siloam International Hospitals Tbk,4730.0,"500 (11,82%)",10.0,475.0,7686250.0
+SUPR,PT. Solusi Tunas Pratama Tbk,6800.0,"300 (4,62%)",163.0,42.0,7731600.0
+LSIP,PT. Perusahaan Perkebunan London Sumatra Indonesia Tbk,1135.0,"35 (3,18%)",49.0,23.0,7742970.0
+MPRO,PT. Propertindo Mulia Investama Tbk,790.0,"20 (2,60%)",-6.0,-123.0,7854180.0
+BIRD,PT. Blue Bird Tbk,3150.0,"-90 (-2,78%)",183.0,17.0,7881300.0
+KRAS,PT. Krakatau Steel (Persero) Tbk,408.0,"-6 (-1,45%)",-38.0,-11.0,7893168.0
+ROTI,PT. Nippon Indosari Corpindo Tbk,1295.0,"0 (0,00%)",22.0,58.0,8010870.0
+BUMI,PT. Bumi Resources Tbk,123.0,"-1 (-0,81%)",49.0,3.0,8053425.0
+JRPT,PT. Jaya Real Property Tbk,600.0,"5 (0,84%)",67.0,9.0,8250000.0
+BSIM,PT. Bank Sinarmas Tbk,560.0,"-5 (-0,88%)",22.0,25.0,8502480.0
+PPRO,PT. PP Properti Tbk,139.0,"-4 (-2,80%)",7.0,21.0,8572825.0
+MYRX,PT. Hanson International Tbk,100.0,"-1 (-0,99%)",3.0,36.0,8670300.0
+INDY,PT. Indika Energy Tbk,1670.0,"-35 (-2,05%)",429.0,4.0,8700700.0
+SMSM,PT. Selamat Sempurna Tbk,1545.0,"25 (1,64%)",42.0,37.0,8896110.0
+SMBR,PT. Semen Baturaja (Persero) Tbk,920.0,"-40 (-4,17%)",8.0,120.0,9137440.0
+INPP,PT. Indonesian Paradise Property Tbk,840.0,"50 (6,33%)",9.0,96.0,9392040.0
+FILM,PT. MD Pictures Tbk,1010.0,"-50 (-4,72%)",14.0,75.0,9606110.0
+TINS,PT. Timah Tbk,1305.0,"20 (1,56%)",71.0,18.0,9718335.0
+KPIG,PT. MNC Land Tbk,132.0,"-1 (-0,75%)",0.0,3614.0,9778428.0
+ADMF,PT. Adira Dinamika Multi Finance Tbk,10000.0,"-50 (-0,50%)",1849.0,5.0,10000000.0
+SRTG,PT. Saratoga Investama Sedaya Tbk,3700.0,"-100 (-2,63%)",-474.0,-8.0,10034400.0
+FIRE,PT. Alfa Energi Investama Tbk,6850.0,"125 (1,86%)",-2.0,-3418.0,10035250.0
+BJTM,PT. Bank Pembangunan Daerah Jawa Timur Tbk,680.0,"-5 (-0,73%)",85.0,8.0,10093240.0
+SSMS,PT. Sawit Sumbermas Sarana Tbk,1075.0,"-15 (-1,38%)",9.0,119.0,10239375.0
+BFIN,PT. BFI Finance Indonesia Tbk,650.0,"-15 (-2,26%)",92.0,7.0,10378550.0
+HEAL,PT. Medikaloka Hermina Tbk,3570.0,"-20 (-0,56%)",42.0,85.0,10613610.0
+KREN,PT. Kresna Graha Investama Tbk,605.0,"0 (0,00%)",22.0,27.0,11015840.0
+DSSA,PT. Dian Swastatika Sentosa Tbk,14500.0,"0 (0,00%)",1679.0,9.0,11165000.0
+GIAA,PT. Garuda Indonesia (Persero) Tbk,432.0,"-16 (-3,57%)",-88.0,-5.0,11182752.0
+IBST,PT. Inti Bangun Sejahtera Tbk,8300.0,"0 (0,00%)",135.0,62.0,11205000.0
+WSBP,PT. Waskita Beton Precast Tbk,430.0,"-8 (-1,83%)",42.0,10.0,11335230.0
+POLL,PT. Pollux Properti Indonesia Tbk,1370.0,"-30 (-2,14%)",0.0,2809.0,11395660.0
+DMAS,PT. Puradelta Lestari Tbk,240.0,"-14 (-5,51%)",5.0,50.0,11567520.0
+SMAR,PT. Sinar Mas Agro Resources and Technology Tbk,4120.0,"0 (0,00%)",208.0,20.0,11832640.0
+LPPF,PT. Matahari Department Store Tbk,4060.0,"10 (0,25%)",376.0,11.0,11843020.0
+INAF,PT. Indofarma (Persero) Tbk,3880.0,"-50 (-1,27%)",-15.0,-257.0,12024120.0
+PNLF,PT. Panin Financial Tbk,376.0,"-14 (-3,59%)",62.0,6.0,12040272.0
+RALS,PT. Ramayana Lestari Sentosa Tbk,1820.0,"40 (2,25%)",99.0,18.0,12914720.0
+LINK,PT. Link Net Tbk,4250.0,"-70 (-1,62%)",357.0,12.0,12928500.0
+MNCN,PT. Media Nusantara Citra Tbk,915.0,"-15 (-1,61%)",92.0,10.0,13062540.0
+ZINC,PT. Kapuas Prima Coal Tbk,520.0,"-25 (-4,59%)",4.0,120.0,13130000.0
+GOOD,PT. Garudafood Putra Putri Jaya Tbk,1780.0,"-5 (-0,28%)",88.0,20.0,13134620.0
+DUTI,PT. Duta Pertiwi Tbk,7150.0,"-350 (-4,67%)",471.0,15.0,13227500.0
+RMBA,PT. Bentoel Internasional Investama Tbk,364.0,"32 (9,64%)",-17.0,-22.0,13249964.0
+ISAT,PT. Indosat Tbk,2450.0,"-60 (-2,39%)",-442.0,-6.0,13310850.0
+PLIN,PT. Plaza Indonesia Realty Tbk,3800.0,"90 (2,43%)",66.0,58.0,13490000.0
+SMCB,PT. Solusi Bangun Indonesia Tbk,1765.0,"-10 (-0,56%)",-116.0,-15.0,13523430.0
+PTPP,PT. Pembangunan Perumahan (Persero) Tbk,2250.0,"-60 (-2,60%)",188.0,12.0,13947750.0
+MKPI,PT. Metropolitan Kentjana Tbk,15000.0,"-2.175 (-12,66%)",1108.0,14.0,14220000.0
+SIDO,PT. Industri Jamu dan Farmasi Sido Muncul Tbk,970.0,"-30 (-3,00%)",44.0,22.0,14550000.0
+POWR,PT. Cikarang Listrindo Tbk,915.0,"5 (0,55%)",71.0,13.0,14719605.0
+MEDC,PT. Medco Energi Internasional Tbk,830.0,"-20 (-2,35%)",-42.0,-20.0,14806370.0
+SMRA,PT. Summarecon Agung Tbk,1030.0,"-30 (-2,83%)",19.0,55.0,14858780.0
+ULTJ,PT. Ultra Jaya Milk Industry & Trading Company Tbk,1310.0,"40 (3,15%)",70.0,19.0,15134430.0
+MAPI,PT. Mitra Adiperkasa Tbk,970.0,"-20 (-2,02%)",45.0,22.0,16102000.0
+MDKA,PT. Merdeka Copper Gold Tbk,3930.0,"-20 (-0,51%)",183.0,22.0,16364520.0
+AKRA,PT. AKR Corporindo Tbk,4120.0,"-30 (-0,72%)",201.0,21.0,16537680.0
+KAEF,PT. Kimia Farma (Persero) Tbk,2980.0,"-30 (-1,00%)",54.0,55.0,16550920.0
+TBIG,PT. Tower Bersama Infrastructure Tbk,3660.0,"-40 (-1,08%)",183.0,20.0,16583460.0
+TAMU,PT. Pelayaran Tamarin Samudra Tbk,4610.0,"30 (0,66%)",-13.0,-366.0,17287500.0
+MAPA,PT. MAP Aktif Adiperkasa Tbk,6075.0,"225 (3,85%)",124.0,49.0,17313750.0
+JPFA,PT. Japfa Comfeed Indonesia Tbk,1500.0,"-15 (-0,99%)",190.0,8.0,17589000.0
+CASA,PT. Capital Financial Indonesia Tbk,324.0,"6 (1,89%)",2.0,209.0,17650224.0
+BJBR,PT. Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,1935.0,"-65 (-3,25%)",183.0,11.0,18846900.0
+BNII,PT. Bank Maybank Indonesia Tbk,252.0,"-2 (-0,79%)",29.0,9.0,18989964.0
+ANTM,PT. Aneka Tambang Tbk,795.0,"-25 (-3,05%)",36.0,22.0,19103850.0
+CTRA,PT. Ciputra Development Tbk,1045.0,"-15 (-1,42%)",42.0,25.0,19395200.0
+BTPS,PT. Bank Tabungan Pensiunan Nasional Syariah Tbk,2550.0,"40 (1,59%)",127.0,20.0,19446300.0
+FASW,PT. Fajar Surya Wisesa Tbk,7925.0,"-50 (-0,63%)",567.0,14.0,19630225.0
+NISP,PT. Bank OCBC NISP Tbk,895.0,"-5 (-0,56%)",116.0,8.0,20329925.0
+ITMG,PT. Indo Tambangraya Megah Tbk,18225.0,"-600 (-3,19%)",3357.0,5.0,20576025.0
+WIKA,PT. Wijaya Karya (Persero) Tbk,2320.0,"-50 (-2,11%)",193.0,12.0,20808080.0
+AALI,PT. Astra Agro Lestari Tbk,10950.0,"225 (2,10%)",747.0,15.0,21067800.0
+TOPS,PT. Totalindo Eka Persada Tbk,680.0,"-20 (-2,86%)",1.0,738.0,22664400.0
+BSDE,PT. Bumi Serpong Damai Tbk,1320.0,"-70 (-5,04%)",42.0,32.0,25404720.0
+BNLI,PT. Bank Permata Tbk,925.0,"-15 (-1,60%)",32.0,28.0,25679850.0
+BBTN,PT. Bank Tabungan Negara (Persero) Tbk,2490.0,"0 (0,00%)",284.0,9.0,26105160.0
+BNGA,PT. Bank CIMB Niaga Tbk,1055.0,"0 (0,00%)",152.0,7.0,26248400.0
+SCMA,PT. Surya Citra Media Tbk,1840.0,"0 (0,00%)",109.0,17.0,26902640.0
+WSKT,PT. Waskita Karya (Persero) Tbk,2020.0,"-20 (-0,98%)",292.0,7.0,27417460.0
+TCPI,PT. Transcoal Pacific Tbk,5600.0,"-175 (-3,03%)",33.0,172.0,28000000.0
+ACES,PT. Ace Hardware Indonesia Tbk,1640.0,"-40 (-2,38%)",55.0,30.0,28126000.0
+TKIM,PT. Pabrik Kertas Tjiwi Kimia Tbk,9300.0,"-200 (-2,11%)",1585.0,6.0,28950900.0
+INCO,PT. Vale Indonesia Tbk,2940.0,"-30 (-1,01%)",88.0,33.0,29211840.0
+BTPN,PT. Bank BTPN Tbk,3670.0,"-50 (-1,34%)",244.0,15.0,29598550.0
+EXCL,PT. XL Axiata Tbk,2810.0,"30 (1,08%)",-308.0,-9.0,30030470.0
+PNBN,PT. Bank Pan Indonesia Tbk,1280.0,"10 (0,79%)",131.0,10.0,30511360.0
+MIKA,PT. Mitra Keluarga Karyasehat Tbk,2190.0,"40 (1,86%)",45.0,49.0,31864500.0
+PWON,PT. Pakuwon Jati Tbk,700.0,"-5 (-0,71%)",49.0,14.0,33711300.0
+INKP,PT. Indah Kiat Pulp & Paper Tbk,6700.0,"-200 (-2,90%)",1878.0,4.0,36649000.0
+MEGA,PT. Bank Mega Tbk,5550.0,"0 (0,00%)",0.0,0.0,38261700.0
+TOWR,PT. Sarana Menara Nusantara Tbk,755.0,"-5 (-0,66%)",45.0,17.0,38515570.0
+AMRT,PT. Sumber Alfaria Trijaya Tbk,975.0,"0 (0,00%)",11.0,91.0,40485900.0
+MLBI,PT. Multi Bintang Indonesia Tbk,20000.0,"-200 (-0,99%)",581.0,34.0,42140000.0
+JSMR,PT. Jasa Marga (Persero) Tbk,5875.0,"-125 (-2,08%)",310.0,19.0,42634875.0
+ADRO,PT. Adaro Energy Tbk,1340.0,"-5 (-0,37%)",189.0,7.0,42859900.0
+PTBA,PT. Bukit Asam Tbk,3800.0,"-140 (-3,55%)",436.0,9.0,43776000.0
+DNET,PT. Indoritel Makmur Internasional Tbk,3200.0,"0 (0,00%)",12.0,272.0,45388800.0
+MAYA,PT. Bank Mayapada Internasional Tbk,7500.0,"-225 (-2,91%)",0.0,0.0,47347500.0
+EMTK,PT. Elang Mahkota Teknologi Tbk,8500.0,"0 (0,00%)",-120.0,-71.0,47940000.0
+PGAS,PT. Perusahaan Gas Negara (Persero) Tbk,2230.0,"-20 (-0,89%)",182.0,12.0,54057430.0
+FREN,PT. Smartfren Telecom Tbk,320.0,"4 (1,27%)",-20.0,-16.0,54756480.0
+BDMN,PT. Bank Danamon Indonesia Tbk,6100.0,"-1.000 (-14,08%)",424.0,14.0,59017500.0
+MYOR,PT. Mayora Indah Tbk,2640.0,"30 (1,15%)",66.0,40.0,59025120.0
+INDF,PT. Indofood Sukses Makmur Tbk,6825.0,"-175 (-2,50%)",474.0,14.0,59923500.0
+BYAN,PT. Bayan Resources Tbk,19000.0,"-300 (-1,55%)",2174.0,9.0,63327000.0
+SMMA,PT. Sinar Mas Multiartha Tbk,10000.0,"300 (3,09%)",220.0,45.0,63670000.0
+KLBF,PT. Kalbe Farma Tbk,1485.0,"-25 (-1,66%)",51.0,29.0,69609375.0
+SMGR,PT. Semen Indonesia (Persero) Tbk,12150.0,"-750 (-5,81%)",469.0,26.0,72061650.0
+BRPT,PT. Barito Pacific Tbk,4080.0,"-20 (-0,49%)",59.0,69.0,72587280.0
+INTP,PT. Indocement Tunggal Prakarsa Tbk,20300.0,"-850 (-4,02%)",224.0,91.0,74724300.0
+CPIN,PT. Charoen Pokphand Indonesia Tbk,5000.0,"-250 (-4,76%)",278.0,18.0,81990000.0
+TPIA,PT. Chandra Asri Petrochemical Tbk,5050.0,"-50 (-0,98%)",195.0,26.0,90056650.0
+UNTR,PT. United Tractors Tbk,26625.0,"-200 (-0,75%)",2983.0,9.0,99311250.0
+ICBP,PT. Indofood CBP Sukses Makmur Tbk,9650.0,"-50 (-0,52%)",392.0,25.0,112528650.0
+GGRM,PT. Gudang Garam Tbk,81775.0,"125 (0,15%)",3992.0,20.0,157335100.0
+BBNI,PT. Bank Negara Indonesia (Persero) Tbk,9225.0,"-200 (-2,12%)",813.0,11.0,170311950.0
+ASII,PT. Astra International Tbk,7450.0,"-25 (-0,33%)",535.0,14.0,301598350.0
+UNVR,PT. Unilever Indonesia Tbk,44500.0,"-725 (-1,60%)",1194.0,37.0,339535000.0
+BMRI,PT. Bank Mandiri (Persero) Tbk,7675.0,"-25 (-0,32%)",541.0,14.0,354577325.0
+TLKM,PT. Telekomunikasi Indonesia (Persero) Tbk,3820.0,"-10 (-0,26%)",192.0,20.0,378416840.0
+HMSP,PT. Hanjaya Mandala Sampoerna Tbk,3390.0,"0 (0,00%)",111.0,31.0,394318020.0
+BBRI,PT. Bank Rakyat Indonesia (Persero) Tbk,4390.0,"20 (0,46%)",265.0,17.0,536071680.0
+BBCA,PT. Bank Central Asia Tbk,28375.0,"-50 (-0,18%)",1059.0,27.0,692577000.0
